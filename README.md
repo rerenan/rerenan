@@ -30,9 +30,3 @@
 ![Trello](https://img.shields.io/badge/trello-1F6AA7?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
- <div align="center">
- 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rerenan&show_icons=true&theme=radical&card_width=400px"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerenan&theme=radical&layout=compact"/>
- 
-</div>
