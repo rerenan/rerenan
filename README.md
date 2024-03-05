@@ -1,4 +1,4 @@
-# Hello Word, I'm Renan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+# Hello World, I'm Renan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 - <a href='https://www.driven.com.br/' target="_blank"><img width='15px' src='https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg' alt="Driven Education" /></a>  Student of Web Developer at Driven Education
 - <a href="https://www.unesp.br/" target="_blank"><img width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT27CPp10OH3vansfCgHW3qay-5wP5KQGkNIGIb5ZBt4Uv9nhNeyBas4UNulcpIbBIzhAw&usqp=CAU"/></a> Student of Electronic and Telecommunications Enginnering
